@@ -6,6 +6,15 @@ Softcover is an ebook typesetting system for technical authors. This is the main
 
 For more details about Softcover, see [*The Softcover Book*](http://manual.softcover.io/book).
 
+##
+
+  This fork is pulled by doublebad doug beatty because while I was @ your mom's somebody did a thing and broke this for my mint installation which is pretty darn vanilla nokogiri node.rb throws an ARGERROR at line 814 when starting softcover server and dumping the hash reveals that everything parses until we get to the title. I contacted the softcover google group a couple of times and no response. #THIS FORK IS DUE TO LACK OF INTEREST AND ME WANTING
+  TO RUN SOFTCOVER _there_I_said_it_
+
+     Not optimistic I'll get in a pull reguest but I'll give it hell trying.
+     #AMF Adieu Mon Frere 2018 doublebad doug beatty is the founder and CEO of
+     Jaucques Moi De enterprises which is entirely ficticious and imaginary
+
 ## Installation
 
     $ gem install softcover
