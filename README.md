@@ -7,6 +7,11 @@ Softcover is an ebook typesetting system for technical authors. This is the main
 For more details about Softcover, see [*The Softcover Book*](http://manual.softcover.io/book).
 
 ##
+##
+branch created to fix nil return error experienced by some users
+noted that same errout reported by anohter user on 2feb2017 so taking
+a shot at fixing it rather than downgrading until something works. 
+installing_softcover
 
 ## Installation
 
